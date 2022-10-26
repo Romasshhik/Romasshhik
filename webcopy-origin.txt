@@ -1,0 +1,84 @@
+Uri: https://my.fundocs.net/
+File Name: C:\Downloaded Web Sites\my.fundocs.net\index.htm
+Content Type: text/html
+
+Uri: https://my.fundocs.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\my.fundocs.net\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/css/app.7610ae2e.css
+File Name: C:\Downloaded Web Sites\my.fundocs.net\css\app.7610ae2e.css
+Content Type: text/css
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Bold.de553052.ttf
+File Name: C:\Downloaded Web Sites\my.fundocs.net\fonts\e-Ukraine-Bold.de553052.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Light.42570a9f.ttf
+File Name: C:\Downloaded Web Sites\my.fundocs.net\fonts\e-Ukraine-Light.42570a9f.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Medium.e265d080.ttf
+File Name: C:\Downloaded Web Sites\my.fundocs.net\fonts\e-Ukraine-Medium.e265d080.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Regular.8de05871.ttf
+File Name: C:\Downloaded Web Sites\my.fundocs.net\fonts\e-Ukraine-Regular.8de05871.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-UltraLight.c127e4aa.ttf
+File Name: C:\Downloaded Web Sites\my.fundocs.net\fonts\e-Ukraine-UltraLight.c127e4aa.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/img/3dots.65388c0c.svg
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\3dots.65388c0c.svg
+Content Type: image/svg+xml
+
+Uri: https://my.fundocs.net/img/barcode_black.23cf8d42.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\barcode_black.23cf8d42.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/barcode_white.6e7278f3.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\barcode_white.6e7278f3.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://my.fundocs.net/img/qr_black.cb1b0dc0.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\qr_black.cb1b0dc0.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/qr_white.c8ecaa5d.png
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\qr_white.c8ecaa5d.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/watermark.77afa534.svg
+File Name: C:\Downloaded Web Sites\my.fundocs.net\img\watermark.77afa534.svg
+Content Type: image/svg+xml
+
+Uri: https://my.fundocs.net/js/app.d41dd78a.js
+File Name: C:\Downloaded Web Sites\my.fundocs.net\js\app.d41dd78a.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/js/chunk-vendors.a8be3896.js
+File Name: C:\Downloaded Web Sites\my.fundocs.net\js\chunk-vendors.a8be3896.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/manifest.json
+File Name: C:\Downloaded Web Sites\my.fundocs.net\manifest.json
+Content Type: application/json
+
